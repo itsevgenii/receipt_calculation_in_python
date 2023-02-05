@@ -1,0 +1,13 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receipt_calc.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python receipt_calc.py",
+    "dev": "python receipt_calc.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
