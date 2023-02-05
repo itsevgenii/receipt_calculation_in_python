@@ -1,0 +1,1 @@
+# receipt_calculation_in_python
